@@ -1,6 +1,6 @@
 
 **Godot External Editor Toggle** is an addon allowing quick switching between the integrated Godot code editor and a previously set up external one.
-![Godot_v4 4-stable_win64_53kqQ0KqjV](https://github.com/user-attachments/assets/ac60f7f1-3852-47e4-a8d1-67a125df28b4)
+![Godot_v4 4-stable_win64_2RF8jKpYeI](https://github.com/user-attachments/assets/5ab801f7-7392-4b73-8b62-930cc692f247)
 
 # Instalation:
 
